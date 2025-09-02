@@ -54,10 +54,11 @@ The project uses a **relational data model** with multiple tables connected via 
 
 ## 📷 Screenshots
 ### Dashboard
-![Dashboard Screenshot](./Screenshot_2025-09-02_143157.png)
+<img width="1163" height="662" alt="Screenshot 2025-09-02 143157" src="https://github.com/user-attachments/assets/b0806c39-ef44-49a1-9da5-d254e60b6170" />
 
 ### Data Model
-![Data Model Screenshot](./Screenshot_2025-09-02_143757.png)
+<img width="1094" height="636" alt="Screenshot 2025-09-02 143757" src="https://github.com/user-attachments/assets/e7831306-32cf-479a-93b2-473b50e66049" />
+
 
 ---
 
